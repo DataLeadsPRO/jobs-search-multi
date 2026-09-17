@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.DataLeadsPRO/jobs-search-multi",
   "description": "Search job postings across Indeed, LinkedIn, and more from one request - titles, companies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/DataLeadsPRO/jobs-search-multi",
     "source": "github"
