@@ -1,0 +1,26 @@
+[
+  {
+    "name": "jobs_multi",
+    "method": "POST",
+    "path": "/jobs/multi",
+    "description": "V1 Jobs Multi"
+  },
+  {
+    "name": "jobs_indeed",
+    "method": "POST",
+    "path": "/jobs/indeed",
+    "description": "V1 Jobs Indeed"
+  },
+  {
+    "name": "jobs_linkedin",
+    "method": "POST",
+    "path": "/jobs/linkedin",
+    "description": "V1 Jobs Linkedin"
+  },
+  {
+    "name": "jobs",
+    "method": "POST",
+    "path": "/jobs",
+    "description": "V1 Jobs"
+  }
+]
