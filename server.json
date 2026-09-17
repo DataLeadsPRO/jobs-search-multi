@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
-  "name": "io.github.dataleadspro/jobs-search-multi",
+  "name": "io.github.DataLeadsPRO/jobs-search-multi",
   "description": "Search job postings across Indeed, LinkedIn, and more from one request - titles, companies, salaries as JSON.",
   "version": "1.0.0",
   "repository": {
